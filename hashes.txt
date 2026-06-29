@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unter den Sternen tanzen
+
+This log tracks the cryptographic history and versioning for the song **Unter den Sternen tanzen** (unter-den-sternen-tanzen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T03:19:30.238211 | `v1` | `cffb6c9c39ead223673d67c69d005417f65676a62471f6fdb7e4c0ec99ff4c3d` | `13a27b871bf1a30d2bb167c0e2137458e60b629d57463f893eef5cb24d11bd86` | `2026-06-30_unter-den-sternen-tanzen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
