@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unter-den-sternen-tanzen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unter den Sternen tanzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-den-sternen-tanzen/) |
+| **Get License** | [Commercial Licensing for Unter den Sternen tanzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-den-sternen-tanzen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die ganze Stadt ist laut, doch ich seh' nur dein Gesicht, yeah
+> Unter den Sternen tanzen wir im Neonlicht
+> Lass uns verschwinden, Baby, fahr'n durch die Nacht so weit
+> Nur du und ich, schwerelos in der Dunkelheit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
